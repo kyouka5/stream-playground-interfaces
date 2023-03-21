@@ -1,5 +1,6 @@
-package countries;
+package countries.repository;
 
+import countries.model.Country;
 import repository.Repository;
 
 /**

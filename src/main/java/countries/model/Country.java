@@ -1,4 +1,4 @@
-package countries;
+package countries.model;
 
 import java.math.BigDecimal;
 import java.time.ZoneId;
