@@ -9,7 +9,7 @@ import repository.Repository;
 public class CountryRepository extends Repository<Country> {
 
     public CountryRepository() {
-        super(Country.class, "countries.json");
+        super(Country.class, "../countries.json");
     }
 
 }
